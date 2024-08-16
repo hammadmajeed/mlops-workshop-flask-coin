@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/54ce9c95-19d5-4887-a982-5b55ef12cf03/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/mlops-workshop-flask-coin",
+    "appService.deploySubpath": "."
+}
